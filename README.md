@@ -18,7 +18,7 @@
   <a href="https://twitter.com/devkng_official" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkng_official" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/dineshkumar-s" target="blank">
+  <a href="https://linkedin.com/in/dk-link" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshkumar s" height="30" width="40" />
   </a>
   <a href="https://instagram.com/devkng_official" target="blank">
