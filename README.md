@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/dk-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
-  </a>
+  </a> 
   <a href="mailto:dineshdb121@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge"/>
   </a>
