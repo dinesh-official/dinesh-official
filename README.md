@@ -17,17 +17,7 @@
   </a>
 </p>
 
-## 🚀 About Me
-
-- 🔧 **DevOps & SRE Engineer** with hands-on experience in cloud infrastructure, CI/CD, and reliability engineering  
-- ☁️ Strong experience with **AWS** and exposure to **Azure & GCP**
-- 🐳 Worked extensively with **Docker, Kubernetes (EKS), Helm**
-- ⚙️ Built and maintained **CI/CD pipelines** using Jenkins & GitHub Actions
-- 🛡️ Experience with **monitoring, incident response, and security scanning**
-- 🎯 Targeting **DevOps / SRE roles in product & fintech companies**
----
-
-<h2 align="center">🚀 DevOps / SRE Pipeline View</h2>
+<h2 align="center">🚀 My Tools Stack</h2>
 
 <table align="center">
 <tr align="center">
@@ -90,6 +80,16 @@
 </tr>
 </table>
 
+---
+
+## 🚀 About Me
+
+- 🔧 **DevOps & SRE Engineer** with hands-on experience in cloud infrastructure, CI/CD, and reliability engineering  
+- ☁️ Strong experience with **AWS** and exposure to **Azure & GCP**
+- 🐳 Worked extensively with **Docker, Kubernetes (EKS), Helm**
+- ⚙️ Built and maintained **CI/CD pipelines** using Jenkins & GitHub Actions
+- 🛡️ Experience with **monitoring, incident response, and security scanning**
+- 🎯 Targeting **DevOps / SRE roles in product & fintech companies**
 ---
 
 ## 🛠️ What I Work On
