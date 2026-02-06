@@ -74,12 +74,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/><br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="35"/>
-    <img src="https://icons-for-free.com/iff/png/512/sonarqube-1336519700268537013.png" width="35"/>
   </td>
 
   <td>
     <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="35"/><br/>
     <img src="https://owasp.org/assets/images/logo.png" width="35"/>
+    <img src="https://icons-for-free.com/iff/png/512/sonarqube-1336519700268537013.png" width="35"/>
   </td>
 </tr>
 </table>
