@@ -17,8 +17,6 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 
 - 🔧 **DevOps & SRE Engineer** with hands-on experience in cloud infrastructure, CI/CD, and reliability engineering  
@@ -27,16 +25,6 @@
 - ⚙️ Built and maintained **CI/CD pipelines** using Jenkins & GitHub Actions
 - 🛡️ Experience with **monitoring, incident response, and security scanning**
 - 🎯 Targeting **DevOps / SRE roles in product & fintech companies**
-
----
-
-## 🧭 Career Timeline
-
-🟢 **Foundation** → Linux • Git • Networking • Cloud Basics  
-🟡 **DevOps** → Docker • Jenkins • CI/CD • AWS  
-🔵 **Cloud Native** → Kubernetes • EKS • Helm • Terraform  
-🟣 **SRE** → Monitoring • Reliability • GitOps • Incident Handling  
-
 ---
 
 <h2 align="center">🚀 DevOps / SRE Pipeline View</h2>
