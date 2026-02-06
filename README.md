@@ -61,6 +61,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="35"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="35"/>
     <img src="https://archive.fosdem.org/2021/stands.fosdem.org/stands/ntop/logo.png" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" height="36"/>
   </td>
 
   <td>
