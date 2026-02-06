@@ -101,11 +101,14 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-official&show_icons=true&theme=default"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-official&layout=compact"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dinesh-official&show_icons=true&theme=github&hide_border=true&count_private=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-official&layout=compact&theme=github&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
